@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683780275944",
+    "project_id": "wheelshare-44b4b",
+    "storage_bucket": "wheelshare-44b4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683780275944:android:8251a1367971773f45935d",
+        "android_client_info": {
+          "package_name": "com.example.wheelshare_client.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683780275944-b49nq42e3qtp79fdlpr293r7pqpsqg9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC96L6Du_DStx3DPba9GAGtZwObDXrUCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683780275944-b49nq42e3qtp79fdlpr293r7pqpsqg9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
